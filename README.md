@@ -2,7 +2,6 @@
 	<head></head>
 
 	<script type="text/javascript">
-	
 	function copy(){
 		var a= document.getElementById("n1");
 		var b= document.getElementById("n2");
@@ -15,7 +14,7 @@
 		d.value=a.value;
 		d.value=a.value;
 		e.value=a.value;
-	}
+		}
 	</script>
 	<body>
 	<center>
